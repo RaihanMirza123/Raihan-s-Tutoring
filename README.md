@@ -1,2 +1,89 @@
-# Raihan-s-Tutoring
-Hi! I'm Raihan, a 14-year-old student passionate about helping others learn. I offer friendly and affordable online tutoring in English and Maths for 7+ and 11+ students.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Raihan's Online Tutoring</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background: #0077cc;
+      color: white;
+      padding: 1em 0;
+      text-align: center;
+    }
+    .container {
+      max-width: 900px;
+      margin: 20px auto;
+      padding: 0 20px;
+    }
+    section {
+      background: white;
+      padding: 20px;
+      margin-bottom: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #0077cc;
+    }
+    footer {
+      text-align: center;
+      padding: 10px;
+      background: #333;
+      color: white;
+    }
+    .button {
+      display: inline-block;
+      padding: 10px 15px;
+      margin-top: 10px;
+      background-color: #0077cc;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Raihan's Online Tutoring</h1>
+    <p>Helping students succeed — from one student to another</p>
+  </header>
+  <div class="container">
+    <section>
+      <h2>About Me</h2>
+      <p>Hi! I'm Raihan, a 14-year-old student passionate about helping others learn. I offer friendly and affordable online tutoring in English and Maths for 7+ and 11+ students.</p>
+    </section>
+
+    <section>
+      <h2>What I Teach</h2>
+      <ul>
+        <li>English (7+ and 11+ preparation)</li>
+        <li>Maths (7+ and 11+ preparation)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Prices & Availability</h2>
+      <p><strong>Pricing:</strong> £5 per hour — I aim to be affordable for all families</p>
+      <p><strong>Available:</strong> Online only — During school holidays (10AM – 6PM)</p>
+    </section>
+
+    <section>
+      <h2>Contact Me</h2>
+      <p>To book a session or ask a question, contact me (with parent/guardian supervision):</p>
+      <p>Email: <a href="mailto:mirzaraihan85@gmail.com">mirzaraihan85@gmail.com</a></p>
+      <a href="mailto:mirzaraihan85@gmail.com" class="button">Book a Session</a>
+    </section>
+  </div>
+  <footer>
+    <p>&copy; 2025 Raihan's Tutoring. All rights reserved.</p>
+  </footer>
+</body>
+</html>
